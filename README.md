@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Developer
 ----------------
 
-I am a junior developer who loves angular, python, typescript but actually is based in java atm.!
+I am a junior developer who loves Angular, Python, Typescript, but currently have most of my knowledge from university in java!
 
 * ✉️  You can contact me at [chriscas.dev@gmail.com](mailto:chriscas.dev@gmail.com)
 * 🧠  I'm learning python, angular, typscript
