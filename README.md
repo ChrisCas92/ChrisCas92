@@ -33,4 +33,4 @@ I am a junior developer who loves Angular, Python, Typescript, but currently hav
 
 <a href="http://www.github.com/ChrisCas92"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrisCas92&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ChrisCas92" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisCas92&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ChrisCas92" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisCas92&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
