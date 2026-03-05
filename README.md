@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Developer
 ----------------
 
-I am a junior developer who loves Angular, Python, Typescript, but currently have most of my knowledge from university in java!
+I am a junior softwarearchitect who loves Java and all about Ai knowledge!
 
 * ✉️  You can contact me at [chriscas.dev@gmail.com](mailto:chriscas.dev@gmail.com)
-* 🧠  I'm learning python, angular, typscript
+* 🧠  I'm learning K8s, hexagonal architecture and many more stuff.
 * 🤝  I'm open to collaborating on Projects
-* ⚡  My personal software development journey starts right now and will bring me closer to my goals, but the journey is the exciting part, because development is constantly changing.
+* ⚡  My personal software development journey starts right now and will bring me closer to my goals, but the journey is the exciting part, because software and development is constantly changing.
 
 ### Skills
 
